@@ -1,7 +1,7 @@
 body{
     background-color:cadetblue;
-    color:white;
+    color:rgb(255, 255, 255);
 }
 header{
-    border-bottom: solid 2px pink;
+    border-bottom: solid 2px rgb(240, 78, 105);
 }
