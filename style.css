@@ -1,4 +1,7 @@
 body{
     background-color:cadetblue;
-    
+    color:white;
+}
+header{
+    border-bottom: solid 2px pink;
 }
