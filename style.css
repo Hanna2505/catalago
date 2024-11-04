@@ -4,5 +4,18 @@ body{
     margin:0px;
 }
 header{
+
     border-bottom: solid 2px rgb(113, 67, 160);
+    padding: 30px;
+    font-size: 46px;
+    color:rgb(246, 242, 250);
+}
+{
+
+    section{
+        background-color: darkviolet;
+        padding-top: 80px;
+        padding-bottom: 80px;
+
+    }
 }
