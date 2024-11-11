@@ -10,7 +10,7 @@ header{
     font-size: 46px;
     color:rgb(246, 242, 250);
 }
-{
+
 
     section{
         background-color: darkviolet;
@@ -19,4 +19,3 @@ header{
 display: flex;
 justify-content: center;
     }
-}
